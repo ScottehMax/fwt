@@ -1,0 +1,15 @@
+title: my site
+description: a plaintext site
+author: your name
+baseurl: ""
+url: ""
+
+nav:
+  - title: about
+    url: /about/
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
