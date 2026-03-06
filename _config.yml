@@ -1,7 +1,7 @@
 title: my site
 description: a plaintext site
 author: your name
-baseurl: ""
+baseurl: "/fwt"
 url: ""
 
 nav:
